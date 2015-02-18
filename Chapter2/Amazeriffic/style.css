@@ -123,3 +123,18 @@ footer .sitemap {
 	float: left;
 	width: 50%;
 }
+
+/* FAQ */
+.faq-list > li {
+	padding-bottom: 1em;
+	text-indent: 2em;
+}
+
+.faq-question {
+	font-size: 1.2em;
+}
+
+.faq-answer {
+	font-style: oblique;
+	text-indent: 3em;
+}

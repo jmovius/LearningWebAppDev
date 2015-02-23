@@ -47,7 +47,7 @@ h1 {
 h2 {
 	padding-top: 1.2em;
 	padding-bottom: 0.3em;
-	font-size: 2em;
+	font-size: 1.75em;
 }
 
 h3 {
@@ -125,16 +125,19 @@ footer .sitemap {
 }
 
 /* FAQ */
-.faq-list > li {
-	padding-bottom: 1em;
-	text-indent: 2em;
+.faq-list {
+	list-style-type: disc;
+	margin-left: 1em;
 }
 
 .faq-question {
 	font-size: 1.2em;
+	margin-left: 1em;
+	padding-bottom: 0.5em;
 }
 
 .faq-answer {
 	font-style: oblique;
-	text-indent: 3em;
+	margin-left: 3em;
+	padding-bottom: 1em;
 }
